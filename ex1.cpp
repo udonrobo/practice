@@ -4,6 +4,6 @@
      printf("hello world");
      int x=1;
      printf("%d",x);
-
+     puts("hogehoge")
      return 0;
  }
