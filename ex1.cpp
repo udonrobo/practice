@@ -3,7 +3,7 @@
 int main(){
     printf("Hallo world");
 
-    int x = 2;
+    int x = 1;
     printf("%d",x);
 
     return 0;
