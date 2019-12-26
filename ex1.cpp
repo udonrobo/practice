@@ -9,5 +9,7 @@ int z = 5;
 
 int y;
 
+int i;
+
      return 0;
  }
